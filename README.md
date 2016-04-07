@@ -1,5 +1,6 @@
 # learn-iot
 对物联网逐步学习，从Arduino、Raspberry Pi 到各种物理网协议，到整个物联网闭环。
+[http://iotday.cn/Books/ExploreIot](http://iotday.cn/Books/ExploreIot)
 
 ## 资源整理
 > 不积跬步，无以至千里；
